@@ -21,12 +21,15 @@ public class Exercicio1{
             //2 5: 2 < 5
             //6 6: 6 = 6
             //5 2: 5 > 2
-            if (d1 < d2)
-                System.out.printf("%d %c %d\n", d1, '<', d2);
-            else if (d1 == d2)
-                System.out.printf("%d = %d\n", d1, d2);
-            else
-                System.out.println(d1 + " > " + d2);
+            // if (d1 < d2)
+            //     System.out.printf("%d %c %d\n", d1, '<', d2);
+            // else if (d1 == d2)
+            //     System.out.printf("%d = %d\n", d1, d2);
+            // else
+            //     System.out.println(d1 + " > " + d2);
+            //exercício
+            //reescrever o if/else usando operador ternário
+            
             ++contador;
         
         }
