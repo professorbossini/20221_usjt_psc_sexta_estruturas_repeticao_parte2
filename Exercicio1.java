@@ -32,7 +32,7 @@ public class Exercicio1{
             System.out.printf(
                 "%d %c %d\n",
                 d1,
-                  ,
+                d1 < d2 ? '<' : d1 == d2 ? '=' : '>',
                 d2
             );
             ++contador;
