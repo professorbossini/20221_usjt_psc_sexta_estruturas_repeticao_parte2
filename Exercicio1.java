@@ -29,7 +29,12 @@ public class Exercicio1{
             //     System.out.println(d1 + " > " + d2);
             //exercício
             //reescrever o if/else usando operador ternário
-            
+            System.out.printf(
+                "%d %c %d\n",
+                d1,
+                  ,
+                d2
+            );
             ++contador;
         
         }
