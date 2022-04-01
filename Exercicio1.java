@@ -36,7 +36,6 @@ public class Exercicio1{
                 d2
             );
             ++contador;
-        
         }
         leitor.close();
     }    
